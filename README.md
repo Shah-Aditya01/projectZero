@@ -1,2 +1,2 @@
 # projectZero
-Test File for understanding Git-GitHub functionalities
+Test File for understanding Git-GitHub's functionalities
